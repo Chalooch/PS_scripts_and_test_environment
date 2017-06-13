@@ -31,6 +31,7 @@ after
 atigrado
 striped
 alrededor
+around
 garganta
 throat
 fingían
